@@ -1,5 +1,5 @@
 {
-    "name": "pear/pear_exception",
+    "name": "pear-exception/pear-exception",
     "description": "The PEAR Exception base class.",
     "type": "class",
     "keywords": [
